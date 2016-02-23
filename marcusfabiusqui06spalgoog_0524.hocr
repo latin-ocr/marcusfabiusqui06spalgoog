@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcusfabiusqui06spalgoog_0524.png"; bbox 0 0 2855 4871; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 422 1518 2069 1950">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 422 1518 2069 1950">
+     <span class='ocr_line' id='line_1_1' title="bbox 593 1518 1889 1675; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 593 1518 1342 1675; x_wconf 68' lang='lat' dir='ltr'><strong>CALPURNII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1403 1576 1889 1675; x_wconf 81' lang='lat' dir='ltr'>FLACCI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 422 1823 2069 1950; baseline 0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 422 1823 1389 1949; x_wconf 87' lang='lat' dir='ltr'><strong>EXCERPTAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1477 1824 2069 1950; x_wconf 86' lang='lat' dir='ltr'>DECEM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 498 2134 1976 2244">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 498 2134 1976 2244">
+     <span class='ocr_line' id='line_1_3' title="bbox 498 2134 1976 2244; baseline 0.001 -19"><span class='ocrx_word' id='word_1_5' title='bbox 498 2134 1243 2225; x_wconf 82' lang='lat' dir='ltr'>RHETORUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 1308 2136 1976 2244; x_wconf 83' lang='lat' dir='ltr'>MINORUM,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 288 2598 2180 2668">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 288 2598 2180 2668">
+     <span class='ocr_line' id='line_1_4' title="bbox 288 2598 2180 2668; baseline -0.002 -13"><span class='ocrx_word' id='word_1_7' title='bbox 288 2601 556 2656; x_wconf 75' lang='lat' dir='ltr'><strong>Prmoel</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 570 2637 588 2668; x_wconf 88' lang='lat'>,</span> <span class='ocrx_word' id='word_1_9' title='bbox 622 2599 954 2655; x_wconf 68' lang='lat' dir='ltr'>Gnonovn</span> <span class='ocrx_word' id='word_1_10' title='bbox 970 2638 987 2665; x_wconf 92' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_11' title='bbox 1021 2599 1456 2654; x_wconf 66' lang='lat' dir='ltr'><strong>scum-mma</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1489 2599 1578 2652; x_wconf 78' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1604 2599 1916 2654; x_wconf 71' lang='lat' dir='ltr'>monum</span> <span class='ocrx_word' id='word_1_14' title='bbox 1949 2598 2151 2654; x_wconf 72' lang='lat' dir='ltr'>no&#39;rls</span> <span class='ocrx_word' id='word_1_15' title='bbox 2164 2637 2180 2666; x_wconf 91' lang='lat'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 681 2811 1805 2863">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 681 2811 1805 2863">
+     <span class='ocr_line' id='line_1_5' title="bbox 681 2811 1805 2863; baseline -0.004 -1"><span class='ocrx_word' id='word_1_16' title='bbox 681 2811 1805 2863; x_wconf 69' lang='lat' dir='ltr'>NNNNNNNNNNNNNNNNNNNNNNNN</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
